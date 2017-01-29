@@ -1,3 +1,4 @@
+*.Rhistory
 *.userprefs
 bin
 obj
